@@ -46,9 +46,7 @@ mood-journal-crud/
 └── README.md # Project documentation
 
 yaml
-Copy code
-
-
+\\
 ---
 
 ## 💻 Getting Started  
