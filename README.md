@@ -28,7 +28,7 @@ Unlike the usual To-Do apps, this project combines **CRUD + Data Visualization +
 ---
 
 ## 📂 Project Structure  
-
+```bash
 mood-journal-crud/
 ├── backend/ # Flask API + SQLite DB
 │ ├── app.py
@@ -44,6 +44,7 @@ mood-journal-crud/
 │ │ │ ├── MoodChart.js
 │
 └── README.md # Project documentation
+
 ---
 
 ## 💻 Getting Started  
