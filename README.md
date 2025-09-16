@@ -50,40 +50,17 @@ mood-journal-crud/
 ## 💻 Getting Started  
 
 ### 1️⃣ Backend (Flask API)  
-```bash
 cd backend
 pip install -r requirements.txt
 python app.py
 Runs at → http://127.0.0.1:5000/
 
 2️⃣ Frontend (React + Tailwind)
-bash
-Copy code
 
 cd frontend
 npm install
 npm start
 Runs at → http://localhost:3000/
-
-📸 Screenshots
-👉 Add these after running your app locally:
-
-📝 Add Mood Entry Form
-
-📋 Entries List (CRUD)
-
-📊 Mood Trends Chart
-
-(Recruiters LOVE visuals — use Snipping Tool or Ctrl+Shift+S to capture & paste here!)
-
-✨ Why This Project is Different
-🚀 Not just another To-Do CRUD app
-
-🌐 Shows full-stack development (Flask + React)
-
-📊 Includes data visualization (Chart.js)
-
-🤖 Can easily be extended with AI Sentiment Analysis
 
 📌 Future Enhancements
 🔹 Edit/Update mood entries from UI
