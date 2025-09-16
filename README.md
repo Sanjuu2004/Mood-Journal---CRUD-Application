@@ -44,9 +44,6 @@ mood-journal-crud/
 │ │ │ ├── MoodChart.js
 │
 └── README.md # Project documentation
-
-yaml
-\\
 ---
 
 ## 💻 Getting Started  
