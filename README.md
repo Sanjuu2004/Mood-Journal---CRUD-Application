@@ -25,15 +25,15 @@ Unlike the usual ToDo apps, this project combines **CRUD + Data Visualization + 
 - Chart.js  
 
 ---
-
 ## 📂 Project Structure  
+
 mood-journal-crud/
-│── backend/          # Flask API + SQLite DB
+├── backend/               # Flask API + SQLite DB
 │   ├── app.py
 │   ├── requirements.txt
 │   ├── database.db
 │
-│── frontend/         # React + Tailwind + Chart.js
+├── frontend/              # React + Tailwind + Chart.js
 │   ├── src/
 │   │   ├── App.js
 │   │   ├── components/
@@ -41,8 +41,9 @@ mood-journal-crud/
 │   │   │   ├── EntryList.js
 │   │   │   ├── MoodChart.js
 │
-│── README.md         # Project documentation
+└── README.md              # Project documentation
 
+---
 
 
 
