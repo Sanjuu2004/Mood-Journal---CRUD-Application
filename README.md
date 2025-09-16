@@ -45,9 +45,6 @@ mood-journal-crud/
 │
 └── README.md # Project documentation
 
----
-
-## 💻 Getting Started  
 
 ### 1️⃣ Backend (Flask API)  
 cd backend
